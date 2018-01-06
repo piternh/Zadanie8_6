@@ -7,6 +7,6 @@ if (value > 0) {
   console.log('Wynik dodatny');
 } else if (value < 0) {
   console.log('Wynik ujemny');
-} else if (value = 0) {
+} else if (value == 0) {
   console.log('Wynik jest równy zeru');
 }
